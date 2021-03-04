@@ -7,4 +7,4 @@
 ### API даёт возможность получать все эти данные через RestApi. 
 \
 \
-[Пример бота](https://github.com/stercoris/old-tpcol-api)
+[Пример бота](https://vk.com/club184728287)
