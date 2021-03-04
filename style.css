@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+
+html{
+    background-color: #fff;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    width: 1280px;
+    background-color: #006989;
+}
+
+/* HEADER */
+header {
+    margin: 0;
+    height: 50px;
+    background-color: #213769;
+}
+
+#logo {
+    width: 40px;
+    margin: 5px;
+    float: left;
+
+}
+h1 {
+    font-family: 'MuseoModerno', monospace;
+    margin: 0;
+    margin-top: -5px;
+    margin-left: 5px;
+    padding: 0;
+    float: left;
+    font-size: 36px;
+    color: beige;
+}
+/* HEADER */
+
+/* Main */
+
+#main {
+    background-color: #213769;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+#main p {
+    font-family: 'Roboto Mono', monospace;
+    color: #ccc;
+    font-size: 35px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+/* Main */
+
+
